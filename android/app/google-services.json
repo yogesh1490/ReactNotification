@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "76556579656",
+    "firebase_url": "https://reactnotifications-ff7cc.firebaseio.com",
+    "project_id": "reactnotifications-ff7cc",
+    "storage_bucket": "reactnotifications-ff7cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76556579656:android:a53c42f074905213",
+        "android_client_info": {
+          "package_name": "com.reactnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76556579656-scpafi8pljqglrm26pugsnt7nuq0vto2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC08v3oWqixYiwtqX9qdvSlXCCfHfB5-Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76556579656-scpafi8pljqglrm26pugsnt7nuq0vto2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
